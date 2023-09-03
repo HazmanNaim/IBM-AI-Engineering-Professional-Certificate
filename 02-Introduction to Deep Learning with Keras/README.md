@@ -12,7 +12,7 @@ This course provides an introduction to the field of deep learning, addressing f
 [Building a Regression Model with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Week%205/Peer_graded_Assignment_Build_a_Regression_Model_in_Keras.ipynb)
 
 ## 📑 Summary of Learning
-Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/09.Machine%20Learning%20with%20Python/Note/Note.md) here for more detailed note.
+Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Note.md) here for more detailed note.
 ### Module 1:
 - Describe the applications of deep learning and explain why it is really rewarding to learn deep learning.
 - Explain neural networks and how most of the deep learning algorithms are inspired by the way the brain functions and neurons process data.

@@ -8,8 +8,8 @@ The <a href="https://www.coursera.org/professional-certificates/ai-engineer">IBM
 This repository serves as a comprehensive collection of documentation and resources used throughout the certification journey. It includes relevant notes, code snippets, and other valuable materials that were utilized during the courses. Additionally, it provides proof of certification for each completed course, showcasing the learner's accomplishment and expertise in the field of AI engineering.
 
 ## 📑 Courses
-- ✅ [01. Machine Learning with Python]()
-- ✅ [02. Introduction to Deep Learning & Neural Networks with Keras]()
+- ✅ [01. Machine Learning with Python](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/01-Machine%20Learning%20with%20Python)
+- ✅ [02. Introduction to Deep Learning & Neural Networks with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras)
 - 🟡 03. Introduction to Computer Vision and Image Processing
 - 🟡 04. Deep Neural Networks with PyTorch
 - 🟡 05. Building Deep Learning Models with TensorFlow

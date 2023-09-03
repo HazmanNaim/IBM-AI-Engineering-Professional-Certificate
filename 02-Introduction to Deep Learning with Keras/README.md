@@ -9,7 +9,7 @@ This course provides an introduction to the field of deep learning, addressing f
 - Keras: Develop practical expertise in utilizing the Keras library for constructing deep learning models and networks.
 
 ## 📚 Projects and Assignments
-[Building a Regression Model with Keras](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/09.Machine%20Learning%20with%20Python/Module%206/ML0101EN_SkillUp_FinalAssignment.ipynb)
+[Building a Regression Model with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Week%205/Peer_graded_Assignment_Build_a_Regression_Model_in_Keras.ipynb)
 
 ## 📑 Summary of Learning
 Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/09.Machine%20Learning%20with%20Python/Note/Note.md) here for more detailed note.
@@ -45,6 +45,5 @@ Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Cer
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/a881caf0f5b4cd99c5d10b8d32e31752"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/d894faa12445819110f5e6577a40f765c0af937a/09.Machine%20Learning%20with%20Python/Asset/Coursera%20KHE4T34GADKH-1.png" height="370"></a>
-  <a href="https://www.credly.com/badges/2e01ae40-80f9-4868-8aac-d71a157717cc/public_url"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/d894faa12445819110f5e6577a40f765c0af937a/09.Machine%20Learning%20with%20Python/Asset/Machine_Learning_with_Python.png" height="370"></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/JLSACYQ7J7K8"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/13a9a174517959d0f545c2b84ab3618570e0b4fe/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Asset/Coursera%20JLSACYQ7J7K8-1.png" height="370"></a>
 </p>

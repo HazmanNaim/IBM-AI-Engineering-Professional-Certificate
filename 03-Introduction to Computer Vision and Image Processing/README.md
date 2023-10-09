@@ -3,17 +3,17 @@
 This Introduction to Computer Vision course is designed to introduce you to applying computer vision techniques to real-world problems. After completing this course, you will be able to apply image processing, traditional Machine Learning, and Deep Learning techniques to Computer Vision problems by integrating your solution into an application. 
 
 ## 🔑 Key Skills Learned
-- Deep Learning: Gain a solid grasp of deep learning, including its principles and applications.
-- Artificial Neural Network: Learn the fundamentals of artificial neural networks, which are the building blocks of deep learning models.
-- Artificial Intelligence (AI): Understand the broader field of artificial intelligence and its connection to deep learning, exploring AI's relevance in various domains.
-- Machine Learning: Acquire knowledge about machine learning techniques, a foundational concept often used in training deep learning models.
-- Keras: Develop practical expertise in utilizing the Keras library for constructing deep learning models and networks.
+- Deep Learning
+- Opencv
+- Artificial Intelligence (AI)
+- Image Processing
+- Computer Vision
 
 ## 📚 Projects and Assignments
-[Building a Regression Model with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Week%205/Peer_graded_Assignment_Build_a_Regression_Model_in_Keras.ipynb)
+[Traffic Sign Classification](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Week%206)
 
 ## 📑 Summary of Learning
-Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Note.md) here for more detailed note.
+Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Note.md) here for more detailed note.
 ### Module 1:
 - Describe the fundamentals of computer vision.
 - Explain the applications of computer vision across different industries.
@@ -49,5 +49,6 @@ Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-C
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/JLSACYQ7J7K8"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/13a9a174517959d0f545c2b84ab3618570e0b4fe/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Asset/Coursera%20JLSACYQ7J7K8-1.png" height="370"></a>
+  <a href="https://coursera.org/share/8cd3b84022c203ef5d9ca571ba64b975"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Asset/Coursera%204ST6WZLHZTFU-1.png" height="370"></a>
+  <a href="https://www.credly.com/go/VX1SZoCa1zVFaytKDx0D7g"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Asset/Computer_Vision_and_and_Image_Processing_Essentials.png" height="370"></a>
 </p>

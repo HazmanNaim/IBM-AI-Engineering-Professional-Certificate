@@ -10,7 +10,7 @@ This repository serves as a comprehensive collection of documentation and resour
 ## 📑 Courses
 - ✅ [01. Machine Learning with Python](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/01-Machine%20Learning%20with%20Python)
 - ✅ [02. Introduction to Deep Learning & Neural Networks with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras)
-- 🟡 03. Introduction to Computer Vision and Image Processing
+- ✅ [03. Introduction to Computer Vision and Image Processing](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing)
 - 🟡 04. Deep Neural Networks with PyTorch
 - 🟡 05. Building Deep Learning Models with TensorFlow
 - 🟡 06. AI Capstone Project with Deep Learning

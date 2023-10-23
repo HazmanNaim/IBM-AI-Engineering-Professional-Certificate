@@ -1,49 +1,54 @@
-# Introduction to Deep Learning with Keras
+# Introduction to Computer Vision and Image Processing
 ## 📑 Summary
-This course provides an introduction to the field of deep learning, addressing fundamental questions about deep learning, its comparison to artificial neural networks, and the exploration of various deep learning models. Participants will gain knowledge on neural networks, deep learning models, and their distinctions. The course covers both unsupervised models like autoencoders and restricted Boltzmann machines, as well as supervised models such as convolutional neural networks and recurrent networks. By the end of the course, learners will have the ability to construct deep learning models and networks using the Keras library.
+This Introduction to Computer Vision course is designed to introduce you to applying computer vision techniques to real-world problems. After completing this course, you will be able to apply image processing, traditional Machine Learning, and Deep Learning techniques to Computer Vision problems by integrating your solution into an application. 
+
 ## 🔑 Key Skills Learned
-- Deep Learning: Gain a solid grasp of deep learning, including its principles and applications.
-- Artificial Neural Network: Learn the fundamentals of artificial neural networks, which are the building blocks of deep learning models.
-- Artificial Intelligence (AI): Understand the broader field of artificial intelligence and its connection to deep learning, exploring AI's relevance in various domains.
-- Machine Learning: Acquire knowledge about machine learning techniques, a foundational concept often used in training deep learning models.
-- Keras: Develop practical expertise in utilizing the Keras library for constructing deep learning models and networks.
+- Deep Learning
+- Opencv
+- Artificial Intelligence (AI)
+- Image Processing
+- Computer Vision
 
 ## 📚 Projects and Assignments
-[Building a Regression Model with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Week%205/Peer_graded_Assignment_Build_a_Regression_Model_in_Keras.ipynb)
+[Traffic Sign Classification](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Week%206)
 
 ## 📑 Summary of Learning
-Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Note.md) here for more detailed note.
+Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Note.md) here for more detailed note.
 ### Module 1:
-- Describe the applications of deep learning and explain why it is really rewarding to learn deep learning.
-- Explain neural networks and how most of the deep learning algorithms are inspired by the way the brain functions and neurons process data.
-- Summarize how neural networks feed data forward through the network.
-- Build a neural network and see how it performs predictions using fast forward propagation.
+- Describe the fundamentals of computer vision.
+- Explain the applications of computer vision across different industries.
+- Describe the common tools used for computer vision.
 
 ### Module 2:
-- Describe the gradient descent algorithm and how variables are optimized with respect to a defined function.
-- Define backpropagation and how neural networks learn and update their weights and biases.
-- Explain the vanishing gradient problem.
-- Define activation functions.
+- Review the fundamental concepts of digital image processing.
+- Explain the basics of image processing techniques.
+- Apply image processing and analysis techniques to computer vision problem.
 
 ### Module 3:
-- Compare and contrast the different deep learning libraries namely, Keras, PyTorch, and TensorFlow.
-- Build a regression model using the Keras library.
-- Build a classifiicatioin model using the Keras library.
+- Describe the basics of image classification.
+- Compare and contrast the differences between different supervised Image classification methods.
+- Create your image classifier using Supervised learning techniques in CV Studio.
 
 ### Module 4:
-- Identify the difference between the shallow and deep neural networks.
-- Describe Convolutional Neural Networks (CNN).
-- Build CNNs using the Keras library.
-- Define Recurrent Neural Networks (RNN).
-- Describe autoencoders and their functions.
+- Describe the main components of Neural Networks.
+- Execute an implementation of an image classification using tools such as PyTorch.
+- Define Transfer Learning and Different CNN Architectures.
 
 ## Module 5:
-- Build a regression model using the Keras library.
-- Describe the impact on the performance through increasing the number of training epochs and changing the number of hidden layers.
+- Evaluate the classification Performance of Haar Cascade Classifiers
+- Evaluate the classification performance of these CNN models
+- Compare the results different models
+
+## Module 6:
+- Apply your knowledge of computer vision and CV Studio to build a custom classifier.
+- Test your uploaded images on your classifier.
+- Create a working web app that you can share.
+- Deploy a computer vision web application to IBM Cloud.
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/JLSACYQ7J7K8"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/13a9a174517959d0f545c2b84ab3618570e0b4fe/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Asset/Coursera%20JLSACYQ7J7K8-1.png" height="370"></a>
+  <a href="https://coursera.org/share/8cd3b84022c203ef5d9ca571ba64b975"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Asset/Coursera%204ST6WZLHZTFU-1.png" height="370"></a>
+  <a href="https://www.credly.com/go/VX1SZoCa1zVFaytKDx0D7g"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Asset/Computer_Vision_and_and_Image_Processing_Essentials.png" height="370"></a>
 </p>

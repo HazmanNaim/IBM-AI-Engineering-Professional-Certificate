@@ -1,5 +1,5 @@
 # IBM AI Engineering Professional Certificate
-Last update: 4/9/2023
+Last update: 31/10/2023
 
 Attention to Visitors: Please note that this repository does not offer specific solutions for the courseworks. However, if you are seeking an overview of this certification, you are more than welcome to explore!
 ## ❔ About
@@ -11,7 +11,7 @@ This repository serves as a comprehensive collection of documentation and resour
 - ✅ [01. Machine Learning with Python](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/01-Machine%20Learning%20with%20Python)
 - ✅ [02. Introduction to Deep Learning & Neural Networks with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras)
 - ✅ [03. Introduction to Computer Vision and Image Processing](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing)
-- 🟡 04. Deep Neural Networks with PyTorch
+- ✅ [04. Deep Neural Networks with PyTorch](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/04-Deep%20Neural%20Networks%20with%20PyTorch)
 - 🟡 05. Building Deep Learning Models with TensorFlow
 - 🟡 06. AI Capstone Project with Deep Learning
 

@@ -10,10 +10,9 @@ The course will teach you how to develop deep learning models using  Pytorch. Th
 - Convolutional Neural Networks
 
 ## 📚 Projects and Assignments
-[Traffic Sign Classification](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Week%206)
 
 ## 📑 Summary of Learning
-Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Note.md) here for more detailed note.
+Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/04-Deep%20Neural%20Networks%20with%20PyTorch/Note.md) here for more detailed note.
 ### Module 1:
 - Define the basics of 1-D tensors.
 - Identify the appropriate methods to classify the type of data in a tensor and the type of tensor.
@@ -96,6 +95,6 @@ Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-C
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/8cd3b84022c203ef5d9ca571ba64b975"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Asset/Coursera%204ST6WZLHZTFU-1.png" height="370"></a>
-  <a href="https://www.credly.com/go/VX1SZoCa1zVFaytKDx0D7g"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Asset/Computer_Vision_and_and_Image_Processing_Essentials.png" height="370"></a>
+  <a href="https://coursera.org/share/e8bcabf1cd1a3fd9640ba12228726e75"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/04-Deep%20Neural%20Networks%20with%20PyTorch/Asset/Coursera%20CCD97S5B83LG_page-0001.jpg" height="370"></a>
+  <a href="https://www.credly.com/badges/639a0a10-4e7a-45c6-976f-7b528e3ef48e"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/04-Deep%20Neural%20Networks%20with%20PyTorch/Asset/credly_badge.png" height="370"></a>
 </p>

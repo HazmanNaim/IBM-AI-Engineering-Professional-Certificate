@@ -60,7 +60,7 @@ Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-C
 - Create a custom module for Softmax using the nn.module package in PyTorch.
 - Use a Softmax classifier to create a model for performing classifications.
 
-## Module 5:
+### Module 5:
 - Describe what a deep neural network is.
 - Implement deep neural networks in Pytorch.
 - Build a deep Neural network in PyTorch using nn.Module list.
@@ -74,7 +74,7 @@ Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-C
 - Describe what batch normalization is and use it in Pytorch.
 - Discuss why batch normalization works.
 
-## Module 6:
+### Module 6:
 - Describe what convulution is and identify how to determine the size of the activation map.
 - Describe activation functions and max pooling.
 - Apply the activation function to each element in the activation map.
@@ -88,7 +88,7 @@ Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-C
 - Utilize the Resnet18 on an image.
 - Train a model to classify a set of images.
 
-## Module 7
+### Module 7
 - Apply all you have learned to train a Convolutional Neural Network using PyTorch.
 
 ## 🏆 Certificates 

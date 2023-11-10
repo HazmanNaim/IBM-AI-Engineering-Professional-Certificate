@@ -20,7 +20,12 @@ The majority of data in the world is unlabeled and unstructured. Shallow neural 
 
 ## 📑 Summary of Learning
 
-Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/04-Deep%20Neural%20Networks%20with%20PyTorch/Note.md) here for more detailed note. \### Module 1: - Explain what TensorFlow is. - Implement Linear and Logistic Regression with Tensorflow. - Define the fundamentals of Deep Learning.
+Check the [link](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/05-Building%20Deep%20Learning%20Model%20with%20TensorFlow/Note.md) here for more detailed note. 
+
+### Module 1:
+- Explain what TensorFlow is.
+- Implement Linear and Logistic Regression with Tensorflow.
+- Define the fundamentals of Deep Learning.
 
 ### Module 2:
 
@@ -62,6 +67,6 @@ To verify the certificates, click the images to follow the links.
 
 <p align="middle">
 
-<a href="https://coursera.org/share/966bc82e1ee49c89109c24822e01e025"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/04-Deep%20Neural%20Networks%20with%20PyTorch/Asset/Coursera%20CCD97S5B83LG_page-0001.jpg" height="370"/></a> <a href="https://www.credly.com/badges/6d8c184b-7904-4ce8-a9e8-ac9d13e61b0e"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/04-Deep%20Neural%20Networks%20with%20PyTorch/Asset/credly_badge.png" height="370"/></a>
+<a href="https://coursera.org/share/966bc82e1ee49c89109c24822e01e025"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/05-Building%20Deep%20Learning%20Model%20with%20TensorFlow/Asset/Coursera%20JB9V9BKYSG2K.jpg" height="370"/></a> <a href="https://www.credly.com/badges/6d8c184b-7904-4ce8-a9e8-ac9d13e61b0e"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/05-Building%20Deep%20Learning%20Model%20with%20TensorFlow/Asset/IBM_AI_-Deep_Learning_with_Tensorflow.png" height="370"/></a>
 
 </p>

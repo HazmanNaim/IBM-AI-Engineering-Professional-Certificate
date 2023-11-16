@@ -1,5 +1,5 @@
 # IBM AI Engineering Professional Certificate
-Last update: 10/11/2023
+Last update: 16/11/2023
 
 Attention to Visitors: Please note that this repository does not offer specific solutions for the courseworks. However, if you are seeking an overview of this certification, you are more than welcome to explore!
 ## ❔ About
@@ -13,7 +13,7 @@ This repository serves as a comprehensive collection of documentation and resour
 - ✅ [03. Introduction to Computer Vision and Image Processing](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing)
 - ✅ [04. Deep Neural Networks with PyTorch](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/04-Deep%20Neural%20Networks%20with%20PyTorch)
 - ✅ [05. Building Deep Learning Models with TensorFlow](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/05-Building%20Deep%20Learning%20Model%20with%20TensorFlow)
-- ✅  06. AI Capstone Project with Deep Learning
+- ✅ [06. AI Capstone Project with Deep Learning](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/06-AI%20Capstone%20Project%20with%20Deep%20Learning)
 
   ✨✨Click on each course to view the relevant information and certificates!✨✨
 
@@ -33,9 +33,18 @@ The following Python libraries were used throughout the certification:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 👷‍♂️ Projects
-[Ongoing]
+[Rain Prediction in Australia with Machine Learning](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/main/09.Machine%20Learning%20with%20Python/Module%206/ML0101EN_SkillUp_FinalAssignment.ipynb)
+[Building a Regression Model with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Week%205/Peer_graded_Assignment_Build_a_Regression_Model_in_Keras.ipynb)
+[Traffic Sign Classification](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Week%206)
+[Image Classifier with ResNet18](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/06-AI%20Capstone%20Project%20with%20Deep%20Learning/Module%205/AI%20Engineering%20Capstone%20Project.ipynb)
 
 ## 🏆 Certificates
-[Ongoing]
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QKN2JGPTQEL7"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/Asset/Coursera%20QKN2JGPTQEL7.jpg" height="370"></a>
+  <a href="https://www.credly.com/badges/c6d112c8-e9e2-435a-8773-31ed05da69f5"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/Asset/Professional_Certificate-AI_Engineering.png" height="370"></a>
+</p>

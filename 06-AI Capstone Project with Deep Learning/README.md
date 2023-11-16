@@ -14,7 +14,7 @@ The AI Capstone Project with Deep Learning focuses on applying transfer learning
 
 ## 📚 Projects and Assignments
 
-- Image Classifier with ResNet18
+[Image Classifier with ResNet18](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/06-AI%20Capstone%20Project%20with%20Deep%20Learning/Module%205/AI%20Engineering%20Capstone%20Project.ipynb)
 
 ## 🏆 Certificates
 

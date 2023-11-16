@@ -39,8 +39,11 @@ The following Python libraries were used throughout the certification:
 
 ## 👷‍♂️ Projects
 [Rain Prediction in Australia with Machine Learning](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/main/09.Machine%20Learning%20with%20Python/Module%206/ML0101EN_SkillUp_FinalAssignment.ipynb)
+
 [Building a Regression Model with Keras](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/02-Introduction%20to%20Deep%20Learning%20with%20Keras/Week%205/Peer_graded_Assignment_Build_a_Regression_Model_in_Keras.ipynb)
+
 [Traffic Sign Classification](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/03-Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Week%206)
+
 [Image Classifier with ResNet18](https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/tree/main/06-AI%20Capstone%20Project%20with%20Deep%20Learning/Module%205/AI%20Engineering%20Capstone%20Project.ipynb)
 
 ## 🏆 Certificates
